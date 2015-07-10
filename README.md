@@ -1,4 +1,5 @@
 # fortuneRobot
-Small program made by my (non-coder) girlfriend to learn some Javascript. It tells your fortune ;)
+Programa hecho por mi novia que no es programadora, para aprender algo de Javascript.
+Es un robot que te responde tu fortuna. Haz preguntas que puedan ser repondidas con un si o con un no.
 
-# Try it [here](http://rubentd.com/fortuneRobot)
+# Pruébalo [aquí](http://rubentd.com/fortuneRobot)
